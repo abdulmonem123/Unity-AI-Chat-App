@@ -31,8 +31,12 @@ AI-powered chat system built in Unity with real-time API integration and interac
 
 ---
 ## ⚡ Demo
+<img width="458" height="821" alt="Screenshot 2026-03-27 111119" src="https://github.com/user-attachments/assets/333659f4-7912-4c89-9a16-0551471fdaa3" />
 
-<img width="431" height="812" alt="Screenshot 2026-03-27 111552" src="https://github.com/user-attachments/assets/f5ad0547-468f-443f-bb5f-8a19b7877518" />
-<img width="443" height="813" alt="Screenshot 2026-03-27 111329" src="https://github.com/user-attachments/assets/2f7479aa-4b2a-42e2-a823-2361099b1878" />
-<img width="451" height="819" alt="Screenshot 2026-03-27 111144" src="https://github.com/user-attachments/assets/058b2a94-c44e-4a1a-8eba-6f934ea79e20" />
-<img width="458" height="821" alt="Screenshot 2026-03-27 111119" src="https://github.com/user-attachments/assets/c5d47a81-30cb-40f0-aa19-9af69dfe3a58" />
+<img width="451" height="819" alt="Screenshot 2026-03-27 111144" src="https://github.com/user-attachments/assets/62499e49-5f62-4a34-9f0a-a605441e31c3" />
+
+<img width="443" height="813" alt="Screenshot 2026-03-27 111329" src="https://github.com/user-attachments/assets/a29a0966-e019-4acc-b8b2-d7b2119b6923" />
+
+
+<img width="431" height="812" alt="Screenshot 2026-03-27 111552" src="https://github.com/user-attachments/assets/66a38e95-8fc4-4e1f-b0ad-f62d6ba0612f" />
+
